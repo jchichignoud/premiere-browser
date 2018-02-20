@@ -11,15 +11,11 @@ For detailed instructions of the above, follow steps 2 and 3 on this page: https
 
 ## USER GUIDE
 ### FEATURES
-- load sequence in Timeline (needs to be active, it won't work with a selected sequence in the Project Browser)
-- press "duplicate" button
-- the name of the sequence needs to end with a number, which will be automatically incremented
-- the original sequence will be placed in a sub-bin called "_OLD", which will be created if it doesn't exist
-
+- type in an address, including the http://, and press Enter (or click go button) to access any site
 
 ### KNOWN ISSUES
 - to go back to the landing page, you need to close and reopen the panel
 - pages that try to open in a new tab or window won't work
-
+- Google Drive will kick out users saying it's not logged in, though copy pasting the direct link to a Drive document works fine
 
 ---
